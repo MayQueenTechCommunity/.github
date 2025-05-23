@@ -14,4 +14,4 @@ Compatible with various platforms, we welcome you to choose our solutions!<br> <
 ### EPD module
 | **Size** |2.13" | 13.3" |
 | ---- | ---- | ---- |
-| **Model Name** |  [PIXPAPER-213-C (NEW)](https://github.com/MayQueenTechCommunity/PIXPAPER-213-C) <br> PIXPAPER-213-M (coming soon) | PIXPAPER-1330-M (coming soon) |
+| **Model Name** |  [PIXPAPER-213-C](https://github.com/MayQueenTechCommunity/PIXPAPER-213-C) <br>  [PIXPAPER-213-M (NEW)](https://github.com/MayQueenTechCommunity/PIXPAPER-213-M) | PIXPAPER-1330-M (coming soon) |
