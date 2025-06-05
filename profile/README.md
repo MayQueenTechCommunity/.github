@@ -12,6 +12,6 @@ Introducing our new Electronic Paper Displays (EPD) products in 2025!
 Compatible with various platforms, we welcome you to choose our solutions!<br> <br>
 
 ### EPD module
-| **Size** |2.13" | 2.9" | 4.0" | 13.3" |
-| ---- | ---- | ---- | ---- | ---- |
-| **Model Name** |  [PIXPAPER-213-C](https://github.com/MayQueenTechCommunity/PIXPAPER-213-C) <br>  [PIXPAPER-213-M (NEW)](https://github.com/MayQueenTechCommunity/PIXPAPER-213-M) | PIXPAPER-290-M (coming soon) | PIXPAPER-400-M (coming soon) | PIXPAPER-1330-M (coming soon) |
+| **Size** |2.13" | 4.0" |
+| ---- | ---- | ---- |
+| **Model Name** |  [PIXPAPER-213-C](https://github.com/MayQueenTechCommunity/PIXPAPER-213-C) <br>  [PIXPAPER-213-M (NEW)](https://github.com/MayQueenTechCommunity/PIXPAPER-213-M) | PIXPAPER-400-M (coming soon) | 
